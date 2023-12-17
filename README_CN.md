@@ -56,7 +56,7 @@ merge_csv_files(folder_path)
 
 ## 举例
 
-为了演示，提供了一个名为 `Example0`的文件夹，其中包含三个CSV文件：`file0.csv`，`file1.csv`和 `file2.csv`。 您可以通过指定文件夹路径在此示例上运行该工具。
+为了演示，提供了一个名为 `Example0`的文件夹，其中包含三个CSV文件：`file0.csv`，`file1.csv`和 `file2.csv`。 你可以通过指定文件夹路径在此示例上运行该工具。
 
 ```bash
 python merge_gpu.py --folder_path Example0
