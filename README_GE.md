@@ -1,6 +1,6 @@
 # CSV-Zusammenführungstool
 
-Dieses Repository enthält ein vielseitiges CSV-Zusammenführungstool mit sowohl GPU- (CUDA-) als auch CPU-Versionen für eine effiziente Konsolidierung mehrerer CSV-Dateien. Das Tool nutzt die RAPIDS cuDF- und Dask-Bibliotheken für die GPU- bzw. CPU-Beschleunigung.
+Dieses Repository enthält ein vielseitiges CSV-Zusammenführungstool mit sowohl GPU- (CUDA-) als auch CPU-Versionen für eine effiziente Konsolidierung mehrerer CSV-Dateien. Das Tool nutzt die RAPIDS cuDF- und Dask-Bibliotheken zur GPU-Beschleunigung.
 
 ## Eigenschaften
 

@@ -1,6 +1,6 @@
 # CSV Merge Tool
 
-This repository contains a versatile CSV merging tool with both GPU (CUDA) and CPU versions for efficient consolidation of multiple CSV files. The tool leverages RAPIDS cuDF and Dask libraries for GPU and CPU acceleration, respectively.
+This repository contains a versatile CSV merging tool with both GPU (CUDA) and CPU versions for efficient consolidation of multiple CSV files. The tool leverages RAPIDS cuDF and Dask libraries for GPU acceleration.
 
 ## Languages
 

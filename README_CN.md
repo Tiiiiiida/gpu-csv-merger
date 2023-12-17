@@ -1,6 +1,6 @@
 # CSV合并工具
 
-这个仓库包含一个多功能的CSV合并工具，具有GPU（CUDA）和CPU版本，可有效合并多个CSV文件。该工具分别利用RAPIDS cuDF和Dask库进行GPU和CPU加速。
+这个仓库包含一个多功能的CSV合并工具，具有GPU（CUDA）和CPU版本，可有效合并多个CSV文件。该工具利用RAPIDS cuDF和Dask库进行GPU加速。
 
 ## 特点
 
