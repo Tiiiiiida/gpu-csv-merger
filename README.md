@@ -2,6 +2,11 @@
 
 This repository contains a versatile CSV merging tool with both GPU (CUDA) and CPU versions for efficient consolidation of multiple CSV files. The tool leverages RAPIDS cuDF and Dask libraries for GPU and CPU acceleration, respectively.
 
+## Languages
+
+- [中文](README_CN.md)
+- [Deutsch](README_GE.md)
+
 ## Features
 
 - **GPU (CUDA) and CPU Versions:** Choose the appropriate version based on your hardware configuration.
